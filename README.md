@@ -15,8 +15,10 @@ Choose:
 ***
 
 # Require
-- Java | [Click this text to Download](https://www.oracle.com/java/technologies/downloads/)
+- **Java | [Click this text to Download](https://www.oracle.com/java/technologies/downloads/)**
 - **How To Run?**: java `machineatm.java``
+
+***
 
 # Languange, and IDE
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,11 +27,11 @@ Choose:
 ***
 
 # Join My Discord Server
-- [TRCyber](https://discord.gg/dGYn2ghxbP)
-- [LyteDevelopment](https://discord.gg/Ehuffyfamz)
+- **[TRCyber](https://discord.gg/dGYn2ghxbP)**
+- **[LyteDevelopment](https://discord.gg/Ehuffyfamz)**
 
 ***
 
 # Donate
-- [PayPal](https://paypal.me/lytetools)
-- [Saweria](https://saweria.co/LyteVV)
+- **[PayPal](https://paypal.me/lytetools)**
+- **[Saweria](https://saweria.co/LyteVV)**
