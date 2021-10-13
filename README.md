@@ -16,7 +16,12 @@ Choose:
 
 # Require
 - **Java | [Click this text to Download](https://www.oracle.com/java/technologies/downloads/)**
-- **How To Run?**: java `machineatm.java``
+- **How To Run?**: 
+```
+javac AtmMachine.java 
+java AtmMachine
+```
+
 
 ***
 
